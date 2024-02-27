@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Great Project
+title: MinDoc
 number: 003
 ---
 
